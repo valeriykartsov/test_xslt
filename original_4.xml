@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?>
+<eDIMessage id="1146b761-13b2-40a9-a6f3-44003e1f2445">
+  <interchangeHeader>
+    <sender>4604048999997</sender>
+    <recipient>4607810199984</recipient>
+    <documentType>ORDRSP</documentType>
+    <creationDateTime>2015-08-31T12:14:46.725Z</creationDateTime>
+    <creationDateTimeBySender>2015-08-31T15:14:24.000Z</creationDateTimeBySender>
+  </interchangeHeader>
+  <orderResponse number="00000061507" date="2015-08-31" status="Accepted">
+    <originOrder number="ТДА00087986" date="2015-08-28" />
+    <seller>
+      <gln>4604048999997</gln>
+      <organization>
+        <name>ОАО "Булгарпиво"</name>
+        <inn>1650008591</inn>
+        <kpp>165001001</kpp>
+      </organization>
+      <russianAddress>
+        <regionISOCode>RU-TA</regionISOCode>
+        <city>Набережные Челны</city>
+        <street>проезд Хлебный</street>
+        <house>37</house>
+        <postalCode>423800</postalCode>
+      </russianAddress>
+    </seller>
+    <buyer>
+      <gln>4607810199984</gln>
+      <organization>
+        <name>ООО "Агат"</name>
+        <inn>1650078006</inn>
+        <kpp>168150001</kpp>
+      </organization>
+      <russianAddress>
+        <regionISOCode>RU-TA</regionISOCode>
+        <city>Набережные Челны г</city>
+        <street>Магистральная ул.</street>
+        <house>д. № 9</house>
+        <postalCode>423820</postalCode>
+      </russianAddress>
+      <additionalInfo>
+        <phone>+7</phone>
+        <nameOfCEO>Головное подразделение ТД Агат</nameOfCEO>
+      </additionalInfo>
+      <contactInfo>
+        <CEO>
+          <name>Головное подразделение ТД Агат</name>
+          <phone>+7</phone>
+        </CEO>
+      </contactInfo>
+    </buyer>
+    <invoicee>
+      <gln>4607810199984</gln>
+      <organization>
+        <name>ООО "Агат"</name>
+        <inn>1650078006</inn>
+        <kpp>168150001</kpp>
+      </organization>
+      <russianAddress>
+        <regionISOCode>RU-TA</regionISOCode>
+        <city>Набережные Челны г</city>
+        <street>Магистральная ул.</street>
+        <house>д. № 9</house>
+        <postalCode>423820</postalCode>
+      </russianAddress>
+      <additionalInfo>
+        <phone>+7</phone>
+        <nameOfCEO>Головное подразделение ТД Агат</nameOfCEO>
+      </additionalInfo>
+      <contactInfo>
+        <CEO>
+          <name>Головное подразделение ТД Агат</name>
+          <phone>+7</phone>
+        </CEO>
+      </contactInfo>
+    </invoicee>
+    <deliveryInfo>
+      <estimatedDeliveryDateTime>2015-09-01T00:00:00.000Z</estimatedDeliveryDateTime>
+      <shipTo>
+        <gln>4607810199922</gln>
+        <organization>
+          <name>ООО "Агат"</name>
+          <inn>1650078006</inn>
+          <kpp>168150003</kpp>
+        </organization>
+        <russianAddress>
+          <regionISOCode>RU-TA</regionISOCode>
+          <city>Набережные Челны г</city>
+          <street>Нижний бьеф Нижнекамской ГЭС</street>
+          <postalCode>423800</postalCode>
+        </russianAddress>
+        <additionalInfo>
+          <phone>+7</phone>
+          <nameOfCEO>Наб челны РЦ</nameOfCEO>
+        </additionalInfo>
+        <contactInfo>
+          <CEO>
+            <name>Наб челны РЦ</name>
+            <phone>+7</phone>
+          </CEO>
+        </contactInfo>
+      </shipTo>
+    </deliveryInfo>
+    <lineItems>
+      <currencyISOCode>RUB</currencyISOCode>
+      <lineItem status="Accepted">
+        <gtin>4604048002879</gtin>
+        <internalBuyerCode>Цб000047917</internalBuyerCode>
+        <internalSupplierCode>000264</internalSupplierCode>
+        <description>Пиво Булгарпиво белое пшеничное 4,8% 2,5л/2шт Булгарпиво пэт</description>
+        <orderedQuantity unitOfMeasure="PCE">60.000</orderedQuantity>
+        <confirmedQuantity unitOfMeasure="PCE">60.000</confirmedQuantity>
+        <netPrice>98.6200</netPrice>
+        <netPriceWithVAT>116.3700</netPriceWithVAT>
+        <netAmount>5917.1200</netAmount>
+        <vATRate>18</vATRate>
+        <vATAmount>1065.0800</vATAmount>
+        <amount>6982.2000</amount>
+      </lineItem>
+      <lineItem status="Accepted">
+        <gtin>4604048002741</gtin>
+        <internalBuyerCode>Ф1573</internalBuyerCode>
+        <internalSupplierCode>000184</internalSupplierCode>
+        <description>Пиво Жигулевское светлое 2,5л/2шт Булгарпиво пэт</description>
+        <orderedQuantity unitOfMeasure="PCE">60.000</orderedQuantity>
+        <confirmedQuantity unitOfMeasure="PCE">60.000</confirmedQuantity>
+        <netPrice>81.2500</netPrice>
+        <netPriceWithVAT>95.8800</netPriceWithVAT>
+        <netAmount>4875.2500</netAmount>
+        <vATRate>18</vATRate>
+        <vATAmount>877.5500</vATAmount>
+        <amount>5752.8000</amount>
+      </lineItem>
+      <lineItem status="Accepted">
+        <gtin>4604048006121</gtin>
+        <internalBuyerCode>Цб000031361</internalBuyerCode>
+        <internalSupplierCode>000171</internalSupplierCode>
+        <description>Пиво Пятницкое золотое 4л/2шт Булгарпиво пэт</description>
+        <orderedQuantity unitOfMeasure="PCE">80.000</orderedQuantity>
+        <confirmedQuantity unitOfMeasure="PCE">80.000</confirmedQuantity>
+        <netPrice>151.8600</netPrice>
+        <netPriceWithVAT>179.1900</netPriceWithVAT>
+        <netAmount>12148.4700</netAmount>
+        <vATRate>18</vATRate>
+        <vATAmount>2186.7300</vATAmount>
+        <amount>14335.2000</amount>
+      </lineItem>
+      <totalSumExcludingTaxes>22940.84</totalSumExcludingTaxes>
+      <totalVATAmount>4129.36</totalVATAmount>
+      <totalAmount>27070.20</totalAmount>
+    </lineItems>
+  </orderResponse>
+</eDIMessage>

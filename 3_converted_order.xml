@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='2_converted_order.xsl'?>
+<eDIMessage id="" creationDateTime="2015-08-31">
+   <interchangeHeader>
+      <sender>4607810199984</sender>
+      <recipient>4604033996666</recipient>
+      <documentType>ORDERS</documentType>
+   </interchangeHeader>
+   <order number="ТДА00088360" date="2015-08-31" status="Original">
+      <seller>
+         <gln>4604033996666</gln>
+      </seller>
+      <buyer>
+         <gln>4607810199984</gln>
+      </buyer>
+      <invoicee>
+         <gln>4607810199984</gln>
+      </invoicee>
+      <deliveryInfo>
+         <requestedDeliveryDateTime>2015-09-01</requestedDeliveryDateTime>
+         <shipTo>
+            <gln>4607810199984</gln>
+         </shipTo>
+      </deliveryInfo>
+      <lineItems>
+         <lineItem>
+            <gtin>2503773</gtin>
+            <description>Огурцы тепличные вес 1кг</description>
+            <internalBuyerCode>Цб000027988</internalBuyerCode>
+            <requestedQuantity unitOfMeasure="PCE">20</requestedQuantity>
+            <lineNumber>1</lineNumber>
+            <netPrice>28.16</netPrice>
+            <netPriceWithVAT>30.98</netPriceWithVAT>
+            <vATRate>10</vATRate>
+         </lineItem>
+         <lineItem>
+            <gtin>2500079</gtin>
+            <description>Перец болгарский вес 1кг</description>
+            <internalBuyerCode>Х9027</internalBuyerCode>
+            <requestedQuantity unitOfMeasure="PCE">10</requestedQuantity>
+            <lineNumber>2</lineNumber>
+            <netPrice>36.43</netPrice>
+            <netPriceWithVAT>40.07</netPriceWithVAT>
+            <vATRate>10</vATRate>
+         </lineItem>
+         <lineItem>
+            <gtin>2501528</gtin>
+            <description>Свекла вес 1кг</description>
+            <internalBuyerCode>Т4502</internalBuyerCode>
+            <requestedQuantity unitOfMeasure="PCE">34</requestedQuantity>
+            <lineNumber>3</lineNumber>
+            <netPrice>11.64</netPrice>
+            <netPriceWithVAT>12.8</netPriceWithVAT>
+            <vATRate>10</vATRate>
+         </lineItem>
+         <lineItem>
+            <gtin>2501435</gtin>
+            <description>Бананы вес 1кг/19кг</description>
+            <internalBuyerCode>27159</internalBuyerCode>
+            <requestedQuantity unitOfMeasure="PCE">39</requestedQuantity>
+            <lineNumber>4</lineNumber>
+            <netPrice>30.15</netPrice>
+            <netPriceWithVAT>35.58</netPriceWithVAT>
+            <vATRate>18</vATRate>
+         </lineItem>
+         <lineItem>
+            <gtin>2590041</gtin>
+            <description>Виноград  Киш Миш вес 1кг </description>
+            <internalBuyerCode>Х4857</internalBuyerCode>
+            <requestedQuantity unitOfMeasure="PCE">20</requestedQuantity>
+            <lineNumber>5</lineNumber>
+            <netPrice>80.66</netPrice>
+            <netPriceWithVAT>95.18</netPriceWithVAT>
+            <vATRate>18</vATRate>
+         </lineItem>
+         <lineItem>
+            <gtin>2503690</gtin>
+            <description>Виноград  Тайфи вес 1кг </description>
+            <internalBuyerCode>Цб000026587</internalBuyerCode>
+            <requestedQuantity unitOfMeasure="PCE">8</requestedQuantity>
+            <lineNumber>6</lineNumber>
+            <netPrice>106.63</netPrice>
+            <netPriceWithVAT>125.82</netPriceWithVAT>
+            <vATRate>18</vATRate>
+         </lineItem>
+         <lineItem>
+            <gtin>2500942</gtin>
+            <description>Дыня Торпеда вес 1кг </description>
+            <internalBuyerCode>Чс000004662</internalBuyerCode>
+            <requestedQuantity unitOfMeasure="PCE">150</requestedQuantity>
+            <lineNumber>7</lineNumber>
+            <netPrice>24.6</netPrice>
+            <netPriceWithVAT>29.03</netPriceWithVAT>
+            <vATRate>18</vATRate>
+         </lineItem>
+         <lineItem>
+            <gtin>2501919</gtin>
+            <description>Дыня Туркменка вес 1кг</description>
+            <internalBuyerCode>Т2485</internalBuyerCode>
+            <requestedQuantity unitOfMeasure="PCE">150</requestedQuantity>
+            <lineNumber>8</lineNumber>
+            <netPrice>24.6</netPrice>
+            <netPriceWithVAT>29.03</netPriceWithVAT>
+            <vATRate>18</vATRate>
+         </lineItem>
+         <lineItem>
+            <gtin>2591667</gtin>
+            <description>Нектарины импортные новый урожай вес 1кг </description>
+            <internalBuyerCode>Х5469</internalBuyerCode>
+            <requestedQuantity unitOfMeasure="PCE">8</requestedQuantity>
+            <lineNumber>9</lineNumber>
+            <netPrice>92.16</netPrice>
+            <netPriceWithVAT>108.75</netPriceWithVAT>
+            <vATRate>18</vATRate>
+         </lineItem>
+         <lineItem>
+            <gtin>2528965</gtin>
+            <description>Персики импортные новый урожай вес 1кг </description>
+            <internalBuyerCode>Т4423</internalBuyerCode>
+            <requestedQuantity unitOfMeasure="PCE">8</requestedQuantity>
+            <lineNumber>10</lineNumber>
+            <netPrice>92.16</netPrice>
+            <netPriceWithVAT>108.75</netPriceWithVAT>
+            <vATRate>18</vATRate>
+         </lineItem>
+         <lineItem>
+            <gtin>2000988615959</gtin>
+            <description>Ассорти зелени (лук,укроп,петрушка) авт. фас 100гр Ч/Л</description>
+            <internalBuyerCode>Цб000027182</internalBuyerCode>
+            <requestedQuantity unitOfMeasure="PCE">3</requestedQuantity>
+            <lineNumber>11</lineNumber>
+            <netPrice>23.44</netPrice>
+            <netPriceWithVAT>25.78</netPriceWithVAT>
+            <vATRate>10</vATRate>
+         </lineItem>
+         <lineItem>
+            <gtin>4607050660497</gtin>
+            <description>Лук зеленый 100гр авт.фас Ч/Л</description>
+            <internalBuyerCode>Цб000017008</internalBuyerCode>
+            <requestedQuantity unitOfMeasure="PCE">3</requestedQuantity>
+            <lineNumber>12</lineNumber>
+            <netPrice>25.73</netPrice>
+            <netPriceWithVAT>28.3</netPriceWithVAT>
+            <vATRate>10</vATRate>
+         </lineItem>
+         <lineItem>
+            <gtin>2000988615928</gtin>
+            <description>Укроп 50гр фас Ч/Л</description>
+            <internalBuyerCode>Цб000027179</internalBuyerCode>
+            <requestedQuantity unitOfMeasure="PCE">10</requestedQuantity>
+            <lineNumber>13</lineNumber>
+            <netPrice>10.57</netPrice>
+            <netPriceWithVAT>11.63</netPriceWithVAT>
+            <vATRate>10</vATRate>
+         </lineItem>
+      </lineItems>
+   </order>
+</eDIMessage>
