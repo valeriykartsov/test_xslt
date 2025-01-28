@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "xslt",
+            "request": "launch",
+            "name": "XSL Transform",
+            "xslPath": "${workspaceFolder}/transform.xsl",
+            "sourcePath": "${workspaceFolder}/original_4.xml",
+            "destinationPath": "${workspaceFolder}/output.xml"
+        }
+    ]
+}
