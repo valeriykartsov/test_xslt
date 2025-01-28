@@ -13,7 +13,9 @@
 
 ## ПО
 Для работы с кодом использовался Visual Studio Code Version: 1.96.4 (Universal) с расширением XSL Transform.
-Для запуска расширения установлены Java [ссылка на скачивание](https://download.oracle.com/java/23/latest/jdk-23_macos-aarch64_bin.dmg) и Saxon XSLT processor (https://github.com/Saxonica/Saxon-HE/releases/download/SaxonHE12-5/SaxonHE12-5J.zip)
+Для запуска расширения установлены:
+- Java — [ссылка на скачивание](https://download.oracle.com/java/23/latest/jdk-23_macos-aarch64_bin.dmg)
+- Saxon XSLT processor [ссылка на скачивание](https://github.com/Saxonica/Saxon-HE/releases/download/SaxonHE12-5/SaxonHE12-5J.zip)
 
 ## Подключение и работа
 После установки ПО необходимо в VS Code в разделе /Settings/Extensions найти XSL Transform прописать путь к процессору Saxon (.jar) и к файлу преобразования (.xsl)
